@@ -11,3 +11,7 @@ but may only be moved onto a pad. Two frogs may NOT share the same pad.
 When this happens, the frog that was jumped over is removed from the game board.
 - The player wins if (and only if) the red frog is the only frog on the board. (i.e. all green frogs
 have been removed).
+
+attention!
+need to  change the address of the pictures and music in Board.JAVA, ChooseLevel.JAVA, Menu.JAVA, Music.JAVA, Square.JAVA ,
+change the address to the address of the resource folder
